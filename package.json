@@ -1,0 +1,19 @@
+{
+  "name": "game-page",
+  "version": "8.1.0",
+  "description": "game page for website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComputerConnor/game-page.git"
+  },
+  "author": "ComputerConnor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ComputerConnor/game-page/issues"
+  },
+  "homepage": "https://github.com/ComputerConnor/game-page#readme"
+}
